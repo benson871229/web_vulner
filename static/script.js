@@ -14,7 +14,7 @@ function login() {
     }).done(function(res) {
 
         if (res['status'] == 'success') {
-            $("#stat").html('<b>nighthawk{wAcTh_oUt_sQl_iNJeCtIon}<b>');
+            $("#stat").html('<b>nighthawk{wATch_oUt_sQl_iNJeCtIon}<b>');
         } else {
             $("#stat").html('<b>Login Failed</b>');
         }
