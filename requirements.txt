@@ -24,4 +24,3 @@ urllib3==1.26.2
 vt-py==0.6.1
 Werkzeug==1.0.1
 yarl==1.6.3
-gunicorn
